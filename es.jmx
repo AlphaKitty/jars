@@ -45,7 +45,7 @@
   &quot;userId&quot;: &quot;8794532123548796&quot;,&#xd;
   &quot;query&quot;: &quot;yahoo&quot;,&#xd;
   &quot;countryCode&quot;: &quot;IN&quot;,&#xd;
-  &quot;pageNum&quot;:2,&#xd;
+  &quot;pageNum&quot;:0,&#xd;
   &quot;sdkVersion&quot;:&quot;0.4&quot;,&#xd;
   &quot;source&quot;:&quot;WebSdk&quot;,&#xd;
   &quot;recommendTimestampMillsec&quot;:1583749196477&#xd;
